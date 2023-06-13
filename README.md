@@ -6,7 +6,7 @@ Welcome to my vibrant GitHub profile! I am Talin Sai Upputuri, an avid data scie
 ## Unveiling the Masterpieces
 
 ### 🐦 Twitter Search Application
-Immerse yourself in a mesmerizing search application that unveils the secrets of Twitter's vast universe. Witness tweets, hashtags, and user information come to life as you delve into real-time Twitter data. The harmony between code and curiosity paints a vivid picture of captivating trends and invaluable insights.
+Immerse yourself in a search application that retrieves the Tweets,hastags and user information entered by the user. The harmony between before caching and after caching code, curiosity paints a vivid picture of captivating trends and invaluable insights.
 
 ### 🕸 Web Scraping and Sentiment Analysis on Amazon Products
 Enter a realm where web scraping and sentiment analysis harmonize like a symphony. In this repository, I reveal the techniques of extracting hidden treasures from the vast Amazon landscape. Feel the pulse of customer sentiment as you explore product reviews, painting a captivating narrative of consumer emotions.
@@ -21,6 +21,6 @@ Behold the kaleidoscope of YouTube data as we unravel its mysteries. Through int
 In the realm of finance, we transform historical stock data into a tapestry of predictions. Witness the artistry of machine learning models as they forecast the twists and turns of the market. With a stroke of genius, we capture the essence of financial analysis and harness it to illuminate the path of investment.
 
 ## Get in Touch
-I'm always excited to connect with fellow data enthusiasts, researchers, and industry professionals. If you have any questions, ideas, or collaboration opportunities, feel free to reach out to me. You can connect with me on LinkedIn at in/talin-sai-upputuri.
+I'm always excited to connect with fellow data enthusiasts, researchers, and industry professionals. If you have any questions, ideas, or collaboration opportunities, feel free to reach out to me. You can connect with me on LinkedIn at www.linkedin.com/in/talin-sai-upputuri.
 
 Thank you for visiting my GitHub profile. Let's unlock the power of data together!
